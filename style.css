@@ -308,7 +308,7 @@ ul, ol {
 .info-card {
   position: absolute;
   bottom: -2.5rem;
-  right: -2.5rem;
+  right: -0rem;
   background-color: var(--white);
   border-radius: var(--border-radius);
   padding: 1.5rem;
